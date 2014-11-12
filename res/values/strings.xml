@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">DistanceGPS</string>
+    <string name="TextSizeLocation">15dp</string>
+    <string name="TextSizeResult">20dp</string>
+
+</resources>
